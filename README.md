@@ -60,6 +60,14 @@ httpd.serve_forever()
 ```
 
 ## OUTPUT:
+
+### server output
+
+![Screenshot_20230329_093419](https://user-images.githubusercontent.com/120194155/228426765-49e0e6c3-1c6c-46d4-9cd8-ad7441eb3869.png)
+
+
+### client output
+
 ![web server](https://user-images.githubusercontent.com/120194155/228297733-c49d445a-87fc-43ea-85db-97ecfbbab178.png)
 
 
